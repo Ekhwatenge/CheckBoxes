@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBoxes</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="applepie">Applepie</string>
+    <string name="brownies">Brownies</string>
+    <string name="cakes">Cakes</string>
+    <string name="pizza">Pizza</string>
+    <string name="order">Order</string>
+    <string name="applePie" />
+</resources>
